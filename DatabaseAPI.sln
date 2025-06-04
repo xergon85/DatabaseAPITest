@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAPI", "DatabaseAPI.csproj", "{2BCDA2C1-3718-4550-88DE-140384EE15DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAPI.Test", "..\DatabaseAPI.Test\DatabaseAPI.Test.csproj", "{7A90EEBB-4D0B-4EFD-BD86-397B9350C441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCDA2C1-3718-4550-88DE-140384EE15DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCDA2C1-3718-4550-88DE-140384EE15DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCDA2C1-3718-4550-88DE-140384EE15DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCDA2C1-3718-4550-88DE-140384EE15DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A90EEBB-4D0B-4EFD-BD86-397B9350C441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A90EEBB-4D0B-4EFD-BD86-397B9350C441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A90EEBB-4D0B-4EFD-BD86-397B9350C441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A90EEBB-4D0B-4EFD-BD86-397B9350C441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F864CE-4940-4ECE-8E6E-146AD76D05F0}
+	EndGlobalSection
+EndGlobal
